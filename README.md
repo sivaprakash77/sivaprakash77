@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sivaprakash N</h1>
-<h3 align="center">A passionate fullstck developer from India</h3>
+<h3 align="center">A passionate fullstck developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaprakash77&label=Profile%20views&color=0e75b6&style=flat" alt="sivaprakash77" /> </p>
 
